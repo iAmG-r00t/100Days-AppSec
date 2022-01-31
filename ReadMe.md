@@ -7,7 +7,7 @@
 </p>
 
 - **Main Objective**: `Learn the basic foundation on how mobile apps work and how to identify vulnerabilities.`
-- **UPDATE:** `31st January 2022` Got stuck here need to do more planning on this but I will be back on this project.
+- **UPDATE:** `31st January 2022` Got stuck here need to do more planning, but I will be back on this project.
 
 ## Keys;
 
